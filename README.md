@@ -1,4 +1,17 @@
 # Ejecuciones-en-clase-SO
+Profesor: John Corredor Franco
+
+Pontificia Universidad Javeriana
+
+Estudiante: Sergio Pardo Hurtado
+
+Carrera: Ciencia de Datos - 6to semetre
+
+Cedula: 1000714363
+
+ID: 00020517742
+
+Año 2025
 
 Esta carpeta contendra todas las ejecuciones en codigo c que se hagan en clase:
 
