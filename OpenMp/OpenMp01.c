@@ -1,7 +1,8 @@
 /**************************************************************
 #            Pontificia Universidad Javeriana
 #   Materia: Sistemas Operativos
-#   Autor: Sergio Pardo
+#   Autor: Sergio Pardo Hurtado
+#   Fecha: 13/05/2025
 #   Descripcion: Programacion Paralela - Introduccion OpenMP
 #   Programa crea hilos de ejecucion para cada nucleo, imprime cadena de caracteres por cada llamado
 **************************************************************/
